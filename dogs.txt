@@ -2,3 +2,5 @@ dogs are awesome. there are so many breeds. i just want to test using git
 oh I should have made this into a branch
 
 I made the new branch. this is me changing the text to have a change in my branch so i can be sure to get it all in one place
+
+Making changes here to test out this application
